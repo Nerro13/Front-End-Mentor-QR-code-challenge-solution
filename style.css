@@ -1,0 +1,26 @@
+.boxx{
+    box-shadow: o 4px 8px 0;
+    padding: 16px;
+    text-align: center;
+    background-color: white;
+    height: 500px;
+    width: 302px;
+    border-radius: 20px;
+}
+img{
+    border-radius: 20px;
+}
+body{
+    background-color: lightgray;
+      
+}
+h2{
+    color: darkblue hsl(218, 44%, 22%);
+}
+p{
+    color: greyishblue hsl(220, 15%, 55%);
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
